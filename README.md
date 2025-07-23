@@ -1,4 +1,18 @@
-# GPT‑2 Large Interactive Text Generation
+# Neural Style Transfer
+
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+
+*NAME*: Manvit Mahesh Deshmukh
+
+*INTERN ID*: CT12DL764
+
+*DOMAIN*: Artificial intelligence.
+
+*DURATION*: 12 weeks
+
+*MENTOR*:  Neela Santhosh Kumar
+
+# GPT‑2 Large Interactive Text Generation - CodTech Internship Task 4
 
 A Python script for generating coherent, topic‑based paragraphs using Hugging Face’s GPT‑2 Large model. This repository provides an easy‑to‑use interactive command‑line program that runs on GPU (if available) in Google Colab or any local environment with PyTorch and a CUDA‑enabled GPU. Just enter your prompt and watch GPT‑2 produce rich, on‑topic content.
 
