@@ -16,7 +16,8 @@ A Python script for generating coherent, topic‑based paragraphs using Hugging 
 8. [Performance Tips](#performance-tips)
 9. [Contributing](#contributing)
 10. [License](#license)
-
+11. [ScreenShot](#ScreenShot)
+    
 ---
 
 ## Project Overview
@@ -149,3 +150,12 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## ScreenShot
+
+<img width="2559" height="1598" alt="Image" src="https://github.com/user-attachments/assets/ded8a1b9-883b-4be5-a9db-89cfc52514bb" />
+<img width="2559" height="1599" alt="Image" src="https://github.com/user-attachments/assets/36f772c7-54e7-4c66-bb36-fbff825fd481" />
+<img width="2559" height="1599" alt="Image" src="https://github.com/user-attachments/assets/c763dfee-410e-4ecd-91a3-7ffdbc6ad7d0" />
+<img width="2559" height="572" alt="Image" src="https://github.com/user-attachments/assets/37d3ec46-f944-44ff-9269-2d80dcab0efd" />
